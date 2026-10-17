@@ -1,0 +1,19 @@
+{
+  "wheel_id": 389,
+  "structure": "umbrella",
+  "slug": "sydneytrees-net-106",
+  "project": "tree-services-sydney-costs-9a896f81919d6b199ab086b4eef8488297ff",
+  "parent_t1_ref": "sydneytrees-net-152",
+  "node_role": "feeder",
+  "money_target": "sydneytrees.net.au",
+  "primary_kw": "tree services sydney costs",
+  "intended_url": "https://sitesau.github.io/sydneytrees-net-106/",
+  "writeback_nonce": "395331cec497f214",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/tree-services-sydney-b91748437962ed9ecff0bdeea3931830ab5dab04/",
+      "anchor": "tree services sydney",
+      "rel": "follow"
+    }
+  ]
+}
